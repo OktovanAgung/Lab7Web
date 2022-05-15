@@ -40,6 +40,6 @@ Tampil halaman utama XAMPP jika server sudah bekerja dengan baik.
 Semua file website tempatkan di direktori : **\xampp\htdocs\
 
 - Database MySql
-Direktori : **\xampp\mysql\
+Direktori : **\xampp\mysql\**
 
 Manajemen database : `http://localhost/phpmyadmin`.
