@@ -33,3 +33,5 @@ Untuk menjalankan web server dari menu XAMPP control.
 ![img](img/xamppcontrol.png)
 
 - Uji coba apakah server sudah bekerja dengan baik `http://127.0.0.1` atau `http:localhouse`
+Tampil halaman utama XAMPP jika server sudah bekerja dengan baik.
+![img](img/serverberhasil.png)
