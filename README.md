@@ -67,3 +67,7 @@ Kemudian untuk mengakses hasilnya melalui URL : `http://localhost/lab7_php_dasar
 Menambahkan variable pada program.
 ![img](img/code2.png)
 ![img](img/belajarphp2.png)
+
+## Predefine Variable $_GET
+Untuk mengaksesnya gunakan URL : `http://localhost/lab7_php_dasar/latihan2.php?nama=Oktovan%20Agung`
+![img](img/code3.png)
