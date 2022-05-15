@@ -12,3 +12,19 @@ Untuk memulai membua kode PHP,perlu disiapkan web server dan interpreter PHP ter
 
 ## Unduh & Install XAMPP
 Unduh  XAMPP dari `https://www.apachefriends.org/download.html`, kemudian pilih versi sesuai dengan device yang digunakan, disini saya menggunkana windows. Setelah selesai download buka file tersebut untuk menginstall, dan sesuaikan direktorinya (misal : **c:\xampp**). Lalu tunggu hingga proses instalasi selesai.
+
+![img](img/installxampp.png)
+
+## Konfigurasi Web Server
+**- Konigurasi Apache**
+Untuk konfigurasi HTTP server, seperti port yang digunakan akses HTTP, modul yang diaktifkan, lokasi document root, dll.
+Lokasi file **\xampp\apache\conf\httpd.conf**
+
+**- Konfigurasi PHP**
+Untuk konfigurasi perilaku engine PHP yang berefek pada keamanan dan performa. Seperti batas maksimal waktu eksekusi script, batas file yang diupload, error reporting, dll.
+Lokasi file : **\xampp\php\php.ini**
+
+**- Konfigurasi MySql**
+Konfigurasi server MySql, seperti administrator user, port, timezone, dll.
+Lokasi file : **\xampp\mysql\bin\my.ini
+
