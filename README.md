@@ -35,3 +35,11 @@ Untuk menjalankan web server dari menu XAMPP control.
 - Uji coba apakah server sudah bekerja dengan baik `http://127.0.0.1` atau `http:localhouse`
 Tampil halaman utama XAMPP jika server sudah bekerja dengan baik.
 ![img](img/serverberhasil.png)
+
+- Dokumen Website
+Semua file website tempatkan di direktori : **\xampp\htdocs\
+
+- Database MySql
+Direktori : **\xampp\mysql\
+
+Manajemen database : `http://localhost/phpmyadmin`.
