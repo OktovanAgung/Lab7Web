@@ -71,3 +71,6 @@ Menambahkan variable pada program.
 ## Predefine Variable $_GET
 Untuk mengaksesnya gunakan URL : `http://localhost/lab7_php_dasar/latihan2.php?nama=Oktovan%20Agung`
 ![img](img/code3.png)
+
+## Membuat Form Input
+![img](img/code4.png)
