@@ -48,3 +48,13 @@ Semua file website tempatkan di direktori : **\xampp\mysql**
 
 Direktori : **\xampp\mysql**
 Manajemen database : `http://localhost/phpmyadmin`.
+
+## Memulai PHP
+BUat folder **lab7_php_dasar** pada root directory web server (**c:\xampp\htdoc**)
+![img](img/directorylab7.png)
+
+Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL : `http://localhost/lab7_php_dasar/`
+![img](img/tampilanwebserver.png)
+
+## PHP Dasar
+Buat file baru dengan nama **php_dasar.php** pada directory tersebut. Kemudian buat kode seperti berikut.
