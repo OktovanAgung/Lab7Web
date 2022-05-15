@@ -17,29 +17,34 @@ Unduh  XAMPP dari `https://www.apachefriends.org/download.html`, kemudian pilih 
 
 ## Konfigurasi Web Server
 - **Konigurasi Apache**
+
 Untuk konfigurasi HTTP server, seperti port yang digunakan akses HTTP, modul yang diaktifkan, lokasi document root, dll.
 Lokasi file **\xampp\apache\conf\httpd.conf**
 
 - **Konfigurasi PHP**
+
 Untuk konfigurasi perilaku engine PHP yang berefek pada keamanan dan performa. Seperti batas maksimal waktu eksekusi script, batas file yang diupload, error reporting, dll.
 Lokasi file : **\xampp\php\php.ini**
 
 - **Konfigurasi MySql**
+
 Konfigurasi server MySql, seperti administrator user, port, timezone, dll.
-Lokasi file : **\xampp\mysql\bin\my.ini
+Lokasi file : **\xampp\mysql\bin\my.ini**
 
 ## Menjalankan Web Server
 Untuk menjalankan web server dari menu XAMPP control.
 ![img](img/xamppcontrol.png)
 
 - Uji coba apakah server sudah bekerja dengan baik `http://127.0.0.1` atau `http:localhouse`
+
 Tampil halaman utama XAMPP jika server sudah bekerja dengan baik.
 ![img](img/serverberhasil.png)
 
 - Dokumen Website
-Semua file website tempatkan di direktori : **\xampp\htdocs\
+
+Semua file website tempatkan di direktori : **\xampp\mysql**
 
 - Database MySql
-Direktori : **\xampp\mysql\**
 
+Direktori : **\xampp\mysql**
 Manajemen database : `http://localhost/phpmyadmin`.
