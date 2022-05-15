@@ -58,3 +58,12 @@ Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL
 
 ## PHP Dasar
 Buat file baru dengan nama **php_dasar.php** pada directory tersebut. Kemudian buat kode seperti berikut.
+![img](img/code1.png)
+
+Kemudian untuk mengakses hasilnya melalui URL : `http://localhost/lab7_php_dasar/php_dasar.php`
+![img](img/belajarphp1.png)
+
+## Variable PHP
+Menambahkan variable pada program.
+![img](img/code2.png)
+![img](img/belajarphp2.png)
