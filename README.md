@@ -86,3 +86,9 @@ Untuk mengaksesnya gunakan URL : `http://localhost/lab7_php_dasar/latihan2.php?n
 
 ## Perulangan For
 ![img](img/code8.png)
+
+## Perulangan While
+![img](img/code9.png)
+
+## Perulangan Dowhile
+![img](img/code10.png)
