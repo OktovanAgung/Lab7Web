@@ -74,3 +74,7 @@ Untuk mengaksesnya gunakan URL : `http://localhost/lab7_php_dasar/latihan2.php?n
 
 ## Membuat Form Input
 ![img](img/code4.png)
+
+## Operator
+![img](img/code5.png)
+
