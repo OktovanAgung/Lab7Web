@@ -78,3 +78,11 @@ Untuk mengaksesnya gunakan URL : `http://localhost/lab7_php_dasar/latihan2.php?n
 ## Operator
 ![img](img/code5.png)
 
+## Kondisi IF
+![img](img/code6.png)
+
+## Kondisi Switch
+![img](img/code7.png)
+
+## Perulangan For
+![img](img/code8.png)
