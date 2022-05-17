@@ -97,3 +97,16 @@ Untuk mengaksesnya gunakan URL : `http://localhost/lab7_php_dasar/latihan2.php?n
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan output dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilhan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
 
 ## Jawaban
+
+- **Pertama saya akan membuat folder baru yang berisi 3 file yang berisi :**
+
+`program_sederhana.php` untuk hamalan utama form.
+
+`umur.php` untuk menghitung umur otomatis dari tanggal lahir.
+
+`gaji.php` untuk menampilkan gaji berdasarkan pekerjaan yang dipilih.
+
+![img](img/folderbaru.png)
+
+- **Form Input**
+
