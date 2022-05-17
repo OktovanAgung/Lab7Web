@@ -110,3 +110,13 @@ Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nam
 
 - **Form Input**
 
+![img](img/codeinput.png)
+Untuk Form saya menggunakan `method POST` dan `action $_SERVER["PHP_SELF"]` yaitu variabel super global yang mengembalikan nama file dari skript yang sedang dieksekusi. Jadi `$_SERVER["PHP_SELF"]`
+mengirim data formulie yang dikirimkan kehalaman itu sendiri.
+
+- **Form Output**
+
+![img](img/codeoutput.png)
+Didalam kolom tabel saya menyisipkan sintaks PHP kedalam html agar saat di run muncul output yang sebelumnya sudah diinput.
+
+Untuk kolom umur dan gaji saya menggunakan file php terpisah yang bertujuan agar penulisan kode lebih rapih.
