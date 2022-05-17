@@ -130,3 +130,10 @@ Untuk menentukan umur berdasarkan tanggal lahir, saya menggunakan `date_diff()` 
 
 ![img](img/codegaji.png)
 
+## Output
+
+![img](img/output1.png)
+
+![img](img/output2.png)
+
+![img](img/output3.png)
