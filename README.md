@@ -120,3 +120,13 @@ mengirim data formulie yang dikirimkan kehalaman itu sendiri.
 Didalam kolom tabel saya menyisipkan sintaks PHP kedalam html agar saat di run muncul output yang sebelumnya sudah diinput.
 
 Untuk kolom umur dan gaji saya menggunakan file php terpisah yang bertujuan agar penulisan kode lebih rapih.
+
+- **Menghitungg Umur Berdasarkan Tanggal Lahir**
+
+![img](img/codeumur.png)
+Untuk menentukan umur berdasarkan tanggal lahir, saya menggunakan `date_diff()` yang berfungsi untuk menghitung selisih waktu, dengan format penulisan seperti diatas.
+
+- **Menentukan Gaji Sesuai Dengan pilihan Pekerjaan**
+
+![img](img/codegaji.png)
+
